@@ -6,7 +6,7 @@ View the poster on `NBViewer`: [![NBViewer](https://raw.githubusercontent.com/ju
 
 [**Design of a Balance of Plant System with Dynamic Networks**](https://www.scipy2021.scipy.org/virtual-poster-session)
 
- >[Nik Kemper](https://github.com/nik), [Jack Kennedy](https://github.com/jack) and [Valmor F. de Almeida](https://github.com/dealmeidavf) <br>
+ >[Nik Kemper](https://github.com/NikolausKemper), [Jack Kennedy](https://github.com/jjfk99) and [Valmor F. de Almeida](https://github.com/dealmeidavf) <br>
  >[Dept. of Chemical Engineering (Nuclear Energy)](https://www.uml.edu/Engineering/Chemical/faculty/de-Almeida-Valmor.aspx) <br>
  >University of Massachusetts Lowell, USA <br>
 
