@@ -2,7 +2,7 @@
 
 Second online conference; July 11-15 2021.
 
-View the poster on `NBViewer`: [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](hhttps://nbviewer.jupyter.org/github/dpploy/scipy-2021/blob/main/poster.ipynb)
+View the poster on `NBViewer`: [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/dpploy/scipy-2021/blob/main/poster.ipynb)
 
 [**Balance of Plant Network Simulation for a Boiling Water Nuclear Reactor**](https://www.scipy2020.scipy.org/virtual-poster-session)
 
