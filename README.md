@@ -1,6 +1,6 @@
 # [SciPy Conference 2021](https://www.scipy2021.scipy.org/schedule)
 
-Second online conference; July 11-15 2021.
+Second online conference; July 12-18 2021.
 
 View the poster on `NBViewer`: [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/dpploy/scipy-2021/blob/main/poster.ipynb)
 
