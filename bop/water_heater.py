@@ -15,7 +15,7 @@ from cortix import Module
 from cortix.support.phase_new import PhaseNew as Phase
 from cortix import Quantity
 
-from .aux import unit
+from .support import unit
 
 class WaterHeater(Module):
     """Water heater system.
