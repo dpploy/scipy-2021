@@ -6,13 +6,11 @@
 
 import logging
 
-import unit
-
-from iapws import IAPWS97 as steam_table
-
 from cortix import Module
 from cortix.support.phase_new import PhaseNew as Phase
 from cortix import Quantity
+
+from .aux import unit
 
 class Condenser(Module):
     """Steam generator.

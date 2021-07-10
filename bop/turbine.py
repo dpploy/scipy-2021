@@ -8,11 +8,11 @@ import logging
 
 import iapws.iapws97 as steam_table
 
-import unit
-
 from cortix import Module
 from cortix.support.phase_new import PhaseNew as Phase
 from cortix import Quantity
+
+from .aux import unit
 
 class Turbine(Module):
     """Turbine.
