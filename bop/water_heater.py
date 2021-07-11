@@ -11,11 +11,11 @@ from iapws import IAPWS97 as steam_table
 from scipy.integrate import odeint
 import numpy as np
 
-import unit
-
 from cortix import Module
 from cortix.support.phase_new import PhaseNew as Phase
 from cortix import Quantity
+
+from .support import unit
 
 class WaterHeater(Module):
     """Water heater system.

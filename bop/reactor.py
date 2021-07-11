@@ -35,13 +35,13 @@ import math
 from scipy.integrate import odeint
 import numpy as np
 
-import unit
-
 from iapws import IAPWS97 as WaterProps
 
 from cortix import Module
 from cortix.support.phase_new import PhaseNew as Phase
 from cortix import Quantity
+
+from .support import unit
 
 class SMPWR(Module):
     """Small modular pressurized boiling water single-point reactor.
