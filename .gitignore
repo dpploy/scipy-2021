@@ -2,7 +2,7 @@
 *~
 *.log
 *.gv
-#*.png
+*.png
 .ctx-saved
 
 # Byte-compiled / optimized / DLL files
