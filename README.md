@@ -4,7 +4,7 @@ Second online conference; July 12-18 2021.
 
 View the poster on `NBViewer`: [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/dpploy/scipy-2021/blob/main/poster.ipynb) 
 <br>
-Execute the poster on `Binder`: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/scipy-2021/blob/main/poster.ipynb/HEAD)
+Execute the poster on `Binder`: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/scipy-2021/main?filepath=poster.ipynb)
 
 [**Design of a Balance of Plant System with Dynamic Networks**](https://www.scipy2021.scipy.org/virtual-poster-session)
 
