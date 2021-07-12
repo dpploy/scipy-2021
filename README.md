@@ -14,7 +14,7 @@ Execute the poster on `Binder`: [![Binder](https://mybinder.org/badge_logo.svg)]
 
 |  |
 |---|
-| <img width="600" src="pics/network-0.gv.png" title="Plant Layout">|
+| <img width="600" src="figs/network.png" title="Plant Layout">|
 | <p style="text-align:center;"><b>Balance of plant network.</b></p> |
 
 References:
