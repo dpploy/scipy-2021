@@ -1,5 +1,5 @@
 pip
-cortix
+cortix==1.1.19
 scipy
 iapws
 jupyter_contrib_nbextensions
