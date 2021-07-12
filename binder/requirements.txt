@@ -1,0 +1,6 @@
+pip
+cortix
+scipy
+iawps
+jupyter_contrib_nbextensions
+jupyterthemes
