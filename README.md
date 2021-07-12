@@ -15,7 +15,7 @@ Execute the poster on `Binder`: [![Binder](https://mybinder.org/badge_logo.svg)]
 |  |
 |---|
 | <img width="600" src="figs/network.png" title="Plant Layout">|
-| <p style="text-align:center;"><b>Balance of plant network. System-level dynamic simulation using the Python library `Cortix`.</b></p> |
+| <p style="text-align:center;"><b>Balance of plant network. System-level dynamic simulation using the Python library [`Cortix`](https://cortix.org).</b></p> |
 
 References:
 - J. Kennedy, N. Kemper, V. F. de Almeida, [Engy-4390: Small Modular Pressurized Water Reactor](https://github.com/dpploy/engy-4390/tree/main/projects/sm-pwr).
