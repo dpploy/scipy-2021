@@ -1,12 +1,12 @@
-# [SciPy Conference 2021](https://www.scipy2021.scipy.org/schedule)
+# [SciPy Conference 2021](https://www.scipy2021.scipy.org/)
 
-Second online conference; July 12-18 2021.
+Second online conference; July 14-16 2021.
 
 View the poster on `NBViewer`: [![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/dpploy/scipy-2021/blob/main/poster.ipynb) 
 <br>
 Execute the poster on `Binder`: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/scipy-2021/main?filepath=poster.ipynb)
 
-[**Design of a Balance of Plant System with Dynamic Networks**](https://www.scipy2021.scipy.org/virtual-poster-session)
+[**Design of a Balance of Plant System with Dynamic Networks**](https://www.scipy2021.scipy.org/posters)
 
  >[Nik Kemper](https://github.com/NikolausKemper), [Jack Kennedy](https://github.com/jjfk99) and [Valmor F. de Almeida](https://github.com/dealmeidavf) <br>
  >[Dept. of Chemical Engineering (Nuclear Energy)](https://www.uml.edu/Engineering/Chemical/faculty/de-Almeida-Valmor.aspx) <br>
