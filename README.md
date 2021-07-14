@@ -6,7 +6,7 @@ View the poster on `NBViewer`: [![NBViewer](https://raw.githubusercontent.com/ju
 <br>
 Execute the poster on `Binder`: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/scipy-2021/main?filepath=poster.ipynb)
 
-[**Design of a Balance of Plant System with Dynamic Networks**](https://www.scipy2021.scipy.org/virtual-poster-session)
+[**Design of a Balance of Plant System with Dynamic Networks**](https://www.scipy2021.scipy.org/posters)
 
  >[Nik Kemper](https://github.com/NikolausKemper), [Jack Kennedy](https://github.com/jjfk99) and [Valmor F. de Almeida](https://github.com/dealmeidavf) <br>
  >[Dept. of Chemical Engineering (Nuclear Energy)](https://www.uml.edu/Engineering/Chemical/faculty/de-Almeida-Valmor.aspx) <br>
