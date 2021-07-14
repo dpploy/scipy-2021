@@ -1,4 +1,4 @@
-# [SciPy Conference 2021](https://www.scipy2021.scipy.org/schedule)
+# [SciPy Conference 2021](https://www.scipy2021.scipy.org/)
 
 Second online conference; July 12-18 2021.
 
